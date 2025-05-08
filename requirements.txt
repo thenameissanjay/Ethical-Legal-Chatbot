@@ -20,3 +20,4 @@ transformers
 scikit-learn 
 python-multipart
 plotly
+langchain_groq
